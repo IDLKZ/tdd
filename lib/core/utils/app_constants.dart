@@ -1,0 +1,1 @@
+const baseApiUri = "https://cat-fact.herokuapp.com";
